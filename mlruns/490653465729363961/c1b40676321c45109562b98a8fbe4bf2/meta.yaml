@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julio/jobs/alura/mlflow-en/mlflow/mlruns/490653465729363961/c1b40676321c45109562b98a8fbe4bf2/artifacts
+end_time: 1676230329319
+entry_point_name: ''
+experiment_id: '490653465729363961'
+lifecycle_stage: active
+run_id: c1b40676321c45109562b98a8fbe4bf2
+run_name: languid-mouse-122
+run_uuid: c1b40676321c45109562b98a8fbe4bf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676230325878
+status: 3
+tags: []
+user_id: julio

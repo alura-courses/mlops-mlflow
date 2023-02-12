@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julio/jobs/alura/mlflow-en/mlflow/mlruns/490653465729363961/5ee652f52d8840c882dda4b9da07896d/artifacts
+end_time: 1676207933991
+entry_point_name: ''
+experiment_id: '490653465729363961'
+lifecycle_stage: active
+run_id: 5ee652f52d8840c882dda4b9da07896d
+run_name: thoughtful-mule-944
+run_uuid: 5ee652f52d8840c882dda4b9da07896d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676207931187
+status: 3
+tags: []
+user_id: julio

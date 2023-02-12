@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julio/jobs/alura/mlflow-en/mlflow/mlruns/490653465729363961/f4ca96f8a0074577ba7e159f56248e8c/artifacts
+end_time: 1676206994756
+entry_point_name: ''
+experiment_id: '490653465729363961'
+lifecycle_stage: active
+run_id: f4ca96f8a0074577ba7e159f56248e8c
+run_name: dapper-horse-645
+run_uuid: f4ca96f8a0074577ba7e159f56248e8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676206986154
+status: 3
+tags: []
+user_id: julio

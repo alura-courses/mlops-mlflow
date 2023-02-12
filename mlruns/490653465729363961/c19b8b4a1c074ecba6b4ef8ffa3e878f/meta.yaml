@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julio/jobs/alura/mlflow-en/mlflow/mlruns/490653465729363961/c19b8b4a1c074ecba6b4ef8ffa3e878f/artifacts
+end_time: 1676206963065
+entry_point_name: ''
+experiment_id: '490653465729363961'
+lifecycle_stage: active
+run_id: c19b8b4a1c074ecba6b4ef8ffa3e878f
+run_name: resilient-fly-950
+run_uuid: c19b8b4a1c074ecba6b4ef8ffa3e878f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676206963040
+status: 4
+tags: []
+user_id: julio

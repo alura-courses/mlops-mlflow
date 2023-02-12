@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julio/jobs/alura/mlflow-en/mlflow/notebooks/mlruns/747829818802971770/098e1a6c257c4426894405be02e76440/artifacts
+end_time: 1676161937181
+entry_point_name: ''
+experiment_id: '747829818802971770'
+lifecycle_stage: active
+run_id: 098e1a6c257c4426894405be02e76440
+run_name: nebulous-boar-164
+run_uuid: 098e1a6c257c4426894405be02e76440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676161764506
+status: 3
+tags: []
+user_id: julio

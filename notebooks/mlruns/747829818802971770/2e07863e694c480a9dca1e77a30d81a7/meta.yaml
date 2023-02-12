@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julio/jobs/alura/mlflow-en/mlflow/notebooks/mlruns/747829818802971770/2e07863e694c480a9dca1e77a30d81a7/artifacts
+end_time: 1676162130992
+entry_point_name: ''
+experiment_id: '747829818802971770'
+lifecycle_stage: active
+run_id: 2e07863e694c480a9dca1e77a30d81a7
+run_name: crawling-dog-665
+run_uuid: 2e07863e694c480a9dca1e77a30d81a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676162130979
+status: 4
+tags: []
+user_id: julio

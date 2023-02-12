@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julio/jobs/alura/mlflow-en/mlflow/notebooks/mlruns/747829818802971770/2007c778301f4c12819170e498ff1d8e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '747829818802971770'
+lifecycle_stage: active
+run_id: 2007c778301f4c12819170e498ff1d8e
+run_name: painted-loon-470
+run_uuid: 2007c778301f4c12819170e498ff1d8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676161523617
+status: 1
+tags: []
+user_id: julio

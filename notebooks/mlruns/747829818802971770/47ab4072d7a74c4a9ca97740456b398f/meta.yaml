@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julio/jobs/alura/mlflow-en/mlflow/notebooks/mlruns/747829818802971770/47ab4072d7a74c4a9ca97740456b398f/artifacts
+end_time: 1676162139663
+entry_point_name: ''
+experiment_id: '747829818802971770'
+lifecycle_stage: active
+run_id: 47ab4072d7a74c4a9ca97740456b398f
+run_name: upbeat-panda-851
+run_uuid: 47ab4072d7a74c4a9ca97740456b398f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676162137499
+status: 3
+tags: []
+user_id: julio

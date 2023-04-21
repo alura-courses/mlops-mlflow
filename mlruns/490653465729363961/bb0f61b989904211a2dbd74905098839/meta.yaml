@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julio/jobs/alura/mlflow-en/mlflow/mlruns/490653465729363961/bb0f61b989904211a2dbd74905098839/artifacts
+end_time: 1676377979685
+entry_point_name: ''
+experiment_id: '490653465729363961'
+lifecycle_stage: active
+run_id: bb0f61b989904211a2dbd74905098839
+run_name: bright-ray-501
+run_uuid: bb0f61b989904211a2dbd74905098839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676377971306
+status: 3
+tags: []
+user_id: julio
